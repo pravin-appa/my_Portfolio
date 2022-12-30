@@ -1,0 +1,62 @@
+.p-Projects.Div22 {
+;
+}
+.p-Projects.Div23 {
+margin-left: 100px;
+margin-right: 100px;
+}
+.p-Projects.Flex16 {
+display: flex;
+justify-content: space-between;
+}
+.p-Projects.Div24 {
+;
+}
+.p-Projects.Div25 {
+font-family: IBM Plex Sans;
+padding-top: 40px;
+}
+.p-Projects.Div28 {
+margin-left: 100px;
+margin-right: 100px;
+}
+.p-Projects.Flex18 {
+display: flex;
+}
+.p-Projects.TextBox41 {
+font-family: IBM Plex Sans;
+font-size: 40px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 40px;
+color: #5f0c0c;
+}
+.p-Projects.TextBox43 {
+font-family: IBM Plex Sans;
+font-size: 60px;
+width: 70%;
+}
+.p-Projects.Button3 {
+color: #fff;
+background-color: #0c0b0c;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+align-self: center;
+font-family: IBM Plex Sans;
+}
+.p-Projects.Carousel2 {
+height: 300px;
+width: 400px;
+}
