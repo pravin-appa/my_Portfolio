@@ -10,5 +10,9 @@
   "362fac4c-ca16-41e0-9fd4-1e775cc5dbec": {
     "name": "Projects",
     "route": "/Projects"
+  },
+  "77afe78b-a0a7-4b6a-bd33-da7eecf83108": {
+    "name": "Blog",
+    "route": "/Blog"
   }
 }

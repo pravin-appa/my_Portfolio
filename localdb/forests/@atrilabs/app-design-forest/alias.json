@@ -1,11 +1,14 @@
 {
-  "Div": 29,
-  "Flex": 19,
-  "TextBox": 43,
+  "Div": 33,
+  "Flex": 21,
+  "TextBox": 46,
   "Image": 15,
   "Link": 2,
-  "Button": 3,
+  "Button": 4,
   "UnorderedList": 4,
-  "Cascader": 1,
-  "Carousel": 2
+  "Cascader": 2,
+  "Carousel": 2,
+  "Accordion": 1,
+  "Overlay": 1,
+  "Modal": 1
 }
